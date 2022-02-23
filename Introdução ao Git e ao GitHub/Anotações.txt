@@ -1,0 +1,6 @@
+Link para download do Git https://git-scm.com/downloads
+O Git Bash é um terminal estendido para utilizar o uso do Git. 
+
+Se você já tem o Git instalado, pode obter a versão de desenvolvimento mais recente pelo próprio Git: git clone https://github.com/git/git
+
+Usando o token pela primeira vez.
